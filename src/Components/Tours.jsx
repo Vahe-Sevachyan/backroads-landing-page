@@ -3,7 +3,7 @@ import Title from "./Title";
 const Tours = () => {
   return (
     <section className="section" id="tours">
-      <Title title="featured" subtitle="Featured" />
+      <Title title="featured" subTitle=" tours" />
 
       <div className="section-center featured-center">
         <article className="tour-card">
@@ -24,7 +24,7 @@ const Tours = () => {
               <p>
                 <span>
                   <i className="fas fa-map"></i>
-                </span>{" "}
+                </span>
                 china
               </p>
               <p>6 days</p>
