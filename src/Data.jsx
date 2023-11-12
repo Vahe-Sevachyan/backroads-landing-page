@@ -95,7 +95,7 @@ export const tours = [
     id: 6,
     image: tour6,
     date: "April 18th 2024",
-    title: "Italy",
+    title: "Italy Adventure",
     info: "Lorem ipsum dolor sit amet consectetur adipisicing elit Asperiores, officia. ",
     location: "",
     duration: 5,
